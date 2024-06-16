@@ -1,7 +1,9 @@
 import  axios  from "axios";
 
 
-const BASE_URL = "http://localhost:5000";
+const BASE_URL = "https://naksapass-nagarjun-api.addon.com.np";
+// const BASE_URL = "http://localhost:5000";
+
 
 const get = async (relativeUrl) => {
     try {

@@ -47,14 +47,6 @@ const TimerComponent = ({ anniversaryDate='2020-01-01T00:00:00', setRefreshMessa
   }
 
   return (
-    // <div>
-    //   <h1>Timer</h1>
-    //   <p>Automatic Timer</p>
-    //   <div>
-    //     {timeTogether.years} years, {timeTogether.months} months, {timeTogether.days} days,{' '}
-    //     {timeTogether.hours} hours, {timeTogether.minutes} minutes, {timeTogether.seconds} seconds
-    //   </div>
-    // </div>
     <div style={{display:"flex", justifyContent:"center"}}>
     <div className="main">
   <h1>Waiting Since Forever</h1>
