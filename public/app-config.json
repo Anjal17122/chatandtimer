@@ -1,6 +1,6 @@
 {
-    "graphqlUrl": "https://backend.nepaljobhr.com.np/graphql",
-    "serverUrl": "https://backend.nepaljobhr.com.np/",
+    "graphqlUrl": "http://localhost:8080/graphql",
+    "serverUrl": "https://localhost:8080/",
     "termsUrl": "https://anjalsapkota.com.np/terms",
     "privacyUrl": "https://anjalsapkota.com.np/privacy"
 }
