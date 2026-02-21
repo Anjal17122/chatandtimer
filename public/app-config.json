@@ -1,6 +1,6 @@
 {
-    "graphqlUrl": "http://10.5.4.104:8080/graphql",
-    "serverUrl": "https://10.5.4.104:8080/",
+    "graphqlUrl": "http://192.168.1.71:8080/graphql",
+    "serverUrl": "https://192.168.1.71:8080/",
     "termsUrl": "https://anjalsapkota.com.np/terms",
     "privacyUrl": "https://anjalsapkota.com.np/privacy"
 }
