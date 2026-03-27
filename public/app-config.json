@@ -1,6 +1,6 @@
 {
-    "graphqlUrl": "http://192.168.1.71:8080/graphql",
-    "serverUrl": "http://192.168.1.71:8080/",
-    "termsUrl": "https://anjalsapkota.com.np/terms",
-    "privacyUrl": "https://anjalsapkota.com.np/privacy"
+    "graphqlUrl": "https://naksadata.dakshinkalimun.gov.np/graphql",
+    "serverUrl": "https://naksadata.dakshinkalimun.gov.np/",
+    "termsUrl": "https://anjal17122.github.io/food-click-privacy-policy/",
+    "privacyUrl": "https://anjal17122.github.io/food-click-privacy-policy/"
 }
