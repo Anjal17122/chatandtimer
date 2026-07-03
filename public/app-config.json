@@ -1,6 +1,6 @@
 {
-    "graphqlUrl": "https://naksadata.dakshinkalimun.gov.np/graphql",
-    "serverUrl": "https://naksadata.dakshinkalimun.gov.np/",
+    "graphqlUrl": "https://foodclickapp.onrender.com/graphql",
+    "serverUrl": "https://foodclickapp.onrender.com/",
     "termsUrl": "https://anjal17122.github.io/food-click-privacy-policy/",
     "privacyUrl": "https://anjal17122.github.io/food-click-privacy-policy/",
     "adminBaseurl":"https://multivendoradmin.netlify.app"
